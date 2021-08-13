@@ -94,10 +94,11 @@ def _install_driver():
 		pass
 
 def main():
+	user_input=input("Enter a manga name")
 	print("Installing driver...")
 	_install_driver()
 
-	manga=MangaGraph("Apotheosis")
+	manga=MangaGraph(user_input)
 	print("Looking for {}...".format(manga.name))
 	manga.find_manga()
 	print("Getting manga image...")
