@@ -1,8 +1,5 @@
 ### About The Project
-The purpose of this project is to create a social network, where people can create an account,
-create posts with pictures, create different post categories and comment posts or like/dislike them.
-Every user has a personal user profile, with all their posts, their profile image, profile description
-as well as avarage post rating.
+The purpose of this project is to create a pie chart just from a certain manga name. The chart is a comparison to other popular titles with the same genre. It aslo includes a image of the main title
 
 ### Create sample posts
 ```sh
