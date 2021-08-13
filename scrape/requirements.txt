@@ -1,0 +1,5 @@
+Pillow == 7.0.0
+geckodriver_autoinstaller == 0.1.0
+matplotlib == 3.4.2
+requests == 2.22.0
+selenium == 3.141.0
